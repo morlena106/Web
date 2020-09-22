@@ -10,20 +10,29 @@ body {
   background: rgb(12, 47, 112);
   color: rgb(214, 214, 214);
   width: 300px;
-  height: 120px;
+  height: 140px;
   padding-left: 20px;
   padding-top: 2px;
   box-sizing: border-box;
   margin-top: 20px;
 }
 
+.contacts_item {
+  line-height: 25px;
+}
+
 .skills_style {
   background: rgb(51, 85, 148);
   color: rgb(214, 214, 214);
   width: 300px;
-  height: 250px;
+  height: 260px;
   padding-left: 20px;
   padding-top: 2px;
   box-sizing: border-box;
   margin-top: 20px;
+}
+
+.skills_TITLE {
+  font-size: 25px;
+  font-weight: 1px;
 }
