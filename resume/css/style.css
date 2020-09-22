@@ -1,0 +1,29 @@
+body {
+  background: rgb(238, 238, 238);
+  font-family: "Montserrat", sans-serif;
+}
+
+.bordo {
+  color: rgb(170, 10, 10);
+}
+.contacts_style {
+  background: rgb(12, 47, 112);
+  color: rgb(214, 214, 214);
+  width: 300px;
+  height: 120px;
+  padding-left: 20px;
+  padding-top: 2px;
+  box-sizing: border-box;
+  margin-top: 20px;
+}
+
+.skills_style {
+  background: rgb(51, 85, 148);
+  color: rgb(214, 214, 214);
+  width: 300px;
+  height: 250px;
+  padding-left: 20px;
+  padding-top: 2px;
+  box-sizing: border-box;
+  margin-top: 20px;
+}
